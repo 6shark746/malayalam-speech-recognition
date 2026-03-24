@@ -32,3 +32,6 @@ Run this in your terminal:
 
 ```bash
 pip freeze > requirements.txt
+## Results
+- Confidence: ~88%
+- WER: ~0.30
