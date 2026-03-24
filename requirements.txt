@@ -1,0 +1,6 @@
+whisperx
+sounddevice
+numpy
+torch
+torchaudio
+JiWER
